@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 
 import ThemeContext from '../../context/ThemeContext'
 
-import PopupDesign from '../PopupDesign'
+import PopupDesign from '../PopUpDesign'
 import {
   NavDesktopContainer,
   NavBarDesktopContent,
